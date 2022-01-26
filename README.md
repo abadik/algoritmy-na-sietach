@@ -6,6 +6,7 @@ Algoritmy na sieťach 2022 - Python
 - [Obsah](#obsah)
 - [Inštalácia - Python](#inštalácia---python)
 - [Inštalácia - IDE](#inštalácia---ide)
+- [Užitočné VS Code rozšírenia](#užitočné-vs-code-rozšírenia)
 - [Úvod do jazyka Python](#úvod-do-jazyka-python)
   - [Operátory](#operátory)
     - [Sčítanie](#sčítanie)
@@ -83,6 +84,14 @@ Budeme používať *Visual Studio Code*. (Návod na stiahnutie a inštaláciu: h
 Alternatívy:
 - SublimeText (https://www.sublimetext.com/download)
 - PyCharm (https://www.jetbrains.com/pycharm/download)
+
+# Užitočné VS Code rozšírenia
+- Python
+- MagicPython
+- Jupyter
+- Jupyter Notebook Renderers
+- vscode-icons
+- Rainbow Brackets
 
 # Úvod do jazyka Python
 ## Operátory
